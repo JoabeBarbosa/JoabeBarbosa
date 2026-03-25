@@ -1,7 +1,7 @@
 # 👨🏻‍💻 Joabe Barbosa
-Olá! Sou Joabe! Curso Ciência da Computação (Gran) e tenho Mestrado em Economia (UFU).
+Olá! Sou Joabe! Curso Ciência da Computação (Gran) e sou Mestre em Economia (UFU).
 
-Atualmente estou me dedicando ao BootCamp ***Claro - Java com Spring Boot***
+Atualmente estou me dedicando a criação de uma plataforma de Robôs de Investimento: ***QUANTCODE***
 
 ## 📚 Habilidades que estou desenvolvendo
 
